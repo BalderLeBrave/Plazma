@@ -1,3 +1,7 @@
 node_modules/
 dist/
+dist-normaliseur/
 release/
+tests/.build.mjs
+tests/.parcours.mjs
+tests/.imp.mjs
